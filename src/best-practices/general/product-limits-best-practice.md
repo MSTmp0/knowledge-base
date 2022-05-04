@@ -4,6 +4,7 @@ labels: 2.3,2.3.x,2.4,2.4.x,SKU,best practices,catalog,performance,product,store
 ---
 
 It is best practice to minimize the number of product Stocking Keeping Units (SKUs) to avoid performance degradation. The recommended effective product max is 10M.
+Starting from version 2.4.4, the recommended effective product max is 200M.
 
 Effective Number of SKU is calculated as the following:
 
